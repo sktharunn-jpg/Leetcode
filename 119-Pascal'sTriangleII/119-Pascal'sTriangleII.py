@@ -1,4 +1,4 @@
-# Last updated: 02/09/2026, 09:31:33
+# Last updated: 02/09/2026, 09:31:44
 1class Solution(object):
 2    def getRow(self, rowIndex):
 3        row = [1]
