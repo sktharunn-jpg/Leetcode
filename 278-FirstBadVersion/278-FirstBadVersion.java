@@ -1,4 +1,4 @@
-// Last updated: 02/09/2026, 12:25:33
+// Last updated: 02/09/2026, 12:25:49
 1public class Solution extends VersionControl {
 2    public int firstBadVersion(int n) {
 3        int l=0,h=n;
