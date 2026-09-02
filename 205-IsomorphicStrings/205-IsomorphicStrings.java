@@ -1,4 +1,4 @@
-// Last updated: 02/09/2026, 14:10:36
+// Last updated: 02/09/2026, 14:10:49
 1class Solution {
 2    public boolean isIsomorphic(String s, String t) {
 3        HashMap<Character, Integer> charIndexS = new HashMap<>();
